@@ -1,0 +1,111 @@
+
+
+
+body {
+    font-family: Arial;
+    margin: 0;
+    background-color: #f2f2f2;
+    color: #333;
+}
+
+
+
+
+header {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+
+
+nav {
+    margin-top: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+nav a:hover {
+    color: skyblue;
+}
+
+
+
+section {
+    background-color: white;
+    margin: 20px;
+    padding: 30px;
+}
+
+
+
+#home {
+    text-align: center;
+    padding: 80px 20px;
+}
+
+#home h2 {
+    font-size: 40px;
+    color: #222;
+}
+
+#home h3 {
+    color: #0077cc;
+}
+
+img{
+    border-radius: 50%;
+}
+
+button {
+    background-color: #0077cc;
+    color: white;
+
+    border: none;
+
+    padding: 12px 20px;
+
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #005fa3;
+}
+
+
+
+section h2 {
+    color: #0077cc;
+}
+
+
+
+li {
+    margin: 10px;
+}
+
+
+
+
+#projects h3 {
+    color: #444;
+}
+
+
+
+
+footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
